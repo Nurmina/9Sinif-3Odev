@@ -33,7 +33,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1KCC_q-FVJpEtmCHmzradr-5VMWtGy8Vnsbs4oP_0g0k/edit?usp=sharing) link verin.
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/12nUGR-7xZrREyN69D86_zrSBbix-QZ6ilvCiINVkkXY/edit?usp=sharing) link verin.
 
 a) Denkleminizi **-1,23x^2+1,82x+1,99E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?**Değildir çünkü hep aynı miktarda yer değiştirmiyor.** 
@@ -48,9 +48,9 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1U8Jtv-cY7xCDjlLprZM8VlBjtcnp5k4R0ZTZiTDdRLo/edit?usp=sharing) link veriniz.
 
-2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
+2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.[İvme-zaman grafiği](https://docs.google.com/spreadsheets/d/1UzucwGYhDB6qcngsqzxlBpQvSj7lrGN6L3wRbnKwzu8/edit?usp=sharing)
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz?**4,84*x-4,49** Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
