@@ -31,11 +31,24 @@ Yukarıdaki aldığım verilerin Google Sheet'deki çizimini [burada](https://do
 
 Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu şekilde çıktı:
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
+|Çerçeve  | Zaman  |  Konum(m)  |
+|7(Başlangıç) |0|0|
+|17|10/60|0,270  |
+|19|12/60|0,320  |
+|25|18/60|0,440  |
+|27|20/60| 0,470  |
+|31|24/60|0,530  |
+|36|29/60|0,590  |
+|38|31/60|0,610  |
+|44|37/60|0,655   |
+|48|41/60|0,670  |
+|53|46/60|0,675  |
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/12nUGR-7xZrREyN69D86_zrSBbix-QZ6ilvCiINVkkXY/edit?usp=sharing) link verin.
 
-a) Denkleminizi **-1,23x^2+1,82x+1,99E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1A8zLyQQi2Ho-At8BU1rVLf-YqIQEByBamySOMEvl1ys/edit?usp=sharing) link verin.
+
+a) Denkleminizi **-1,22x^2+1,81+2,33E-03**. Boyut a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?**Değildir çünkü hep aynı miktarda yer değiştirmiyor.** 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? **Bence c değişirdi.** (a, b veya c) 
 
@@ -46,8 +59,7 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1U8Jtv-cY7xCDjlLprZM8VlBjtcnp5k4R0ZTZiTDdRLo/edit?usp=sharing) link veriniz.
-
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1JzLCmn4cbpWjVFW2vKYTWcqsxfvZF-CUQijnYMURamQ/edit?usp=sharing) bağlantı veriniz.
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.[İvme-zaman grafiği](https://docs.google.com/spreadsheets/d/1UzucwGYhDB6qcngsqzxlBpQvSj7lrGN6L3wRbnKwzu8/edit?usp=sharing)
 
 3) İvme'yi ne buldunuz?**4,84*x-4,49** Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
